@@ -31,7 +31,7 @@ for i in range(len(unsorted_list)):
 print("final sorted list: ", sorted_list)
 
 # 3. Calculate average for even and odd numbers
-# create two new lists for further odd and even numbers from the randon list
+# create two new lists for further odd and even numbers from the random list
 odd_list = []
 even_list = []
 # check the random numbers from the initial list to split them in to two new lists
